@@ -1,6 +1,6 @@
 # 63_Hackaholics_FinTech
 
-develop a Budget Tracker application that allows users to manage their finances and provides insights into their spending habits and savings progress. The application will track monthly income, expenses, and savings goals. The system should provide real-time financial summaries, advice, and visualizations to help the user make informed financial decisions.
+Develop a Budget Tracker application that allows users to manage their finances and provides insights into their spending habits and savings progress. The application will track monthly income, expenses, and savings goals. The system should provide real-time financial summaries, advice, and visualizations to help the user make informed financial decisions.
 
 Functional Requirements:
 Income Management:
